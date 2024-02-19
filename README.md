@@ -1,4 +1,4 @@
-<img align="left" height="180px" src=https://github.com/thivistan/tjames/blob/main/images/Capture.png" alt="image" />
+<img align="left" height="180px" src="https://github.com/thivistan/tjames/blob/main/images/Capture.png" alt="image" />
 
 <img align="right" alt="GIF"  width="300px" src="https://github.com/thivistan/tjames/blob/main/images/giphy.webp" />
 
@@ -109,7 +109,7 @@ while(!(succeed=try()); )
 
 <!-- ### Spotify Playing 🎧  ––>
 
-<!--[<img src="https://now-playing-beige-ten.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />(https://open.spotify.com/user/31s7xanqwwzldh72zkvp5km2nqn4)––>
+<!--[<img src="https://now-playing-beige-ten.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />(https://open.spotify.com/user/thivstan)––>
 
 <details>
   <summary>:zap: Most used languages</summary>
