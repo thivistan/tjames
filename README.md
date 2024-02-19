@@ -1,4 +1,4 @@
-<img align="left" height="180px" src="https://github.com/thivistan/tjames/main/images/Capture.png" alt="image" />
+<img align="left" height="180px" src="https://github.com/thivistan/tjames/blob/main/images/Capture.png" alt="image" />
 
 <img align="right" alt="GIF"  width="300px" src="https://github.com/thivistan/tjames/tree/main/images/giphy.webp" />
 
