@@ -1,9 +1,9 @@
-<img align="left" height="180px" src="https://github.com/thivistan/tjames/tree/main/images/Capture.png" alt="image" />
+<img align="left" height="180px" src="https://github.com/thivistan/tjames/main/images/Capture.png" alt="image" />
 
 <img align="right" alt="GIF"  width="300px" src="https://github.com/thivistan/tjames/tree/main/images/giphy.webp" />
 
 
-<h1 align="center"># Hello, folks! <img src="https://github.com/thivistan/tjames/tree/main/images/wave.gif" width="30px"><br> I'm Preet 
+<h1 align="center"># Hello, folks! <img src="https://github.com/thivistan/tjames/tree/main/images/wave.gif" width="30px"><br> I'm Thivi
 <img src="https://github.com/thivistan/tjames/tree/main/images/Developer.gif" width="65px"></h1><br><br>
 <!--  <center><a href="https://www.linkedin.com/in/thivstan/">
   <img align="center" alt="Aniketh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
