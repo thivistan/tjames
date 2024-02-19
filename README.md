@@ -25,20 +25,33 @@
  -->
 ## About me:<img src="https://github.com/thivistan/tjames/blob/main/images/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966.gif" width="30"> 
 
-- 🧑‍🎓 Currently Pursuing MS in DComputer Science at California State Univesity, Domniguez Hills
+- 🧑‍🎓 Currently Pursuing MS in Computer Science at California State Univesity, Domniguez Hills
  
 - 🕵 Full Stack Developer, Software Engineer, AI/ML Enthu
 
 - 🔭 Feel free to check out my latest [Project](https://github.com/thivistan/E-CommercePlus)
 
-- 🌱 I’m currently learning **Data Science & Machine learning🤩**
+- 🌱 I’m currently learning **Machine learning integration with Web Development🤩**
 
-- <summary> 💬 Problem Solver. Passion Catalyst. Change Maker. Love simulating conversations especially if done over beer. I 'm looking to collaborate to work on ML projects😎 </summary>   
+- <summary> 💬 Problem Solver. Passion Catalyst. Change Maker. Love simulating conversations especially if done over beer. I 'm looking to collaborate to work on Fullstack and AI/ML projects😎 </summary>   
 
-- <details> <summary> 📫 How to reach me :information_desk_person: </summary><a href="mailto:preetmehta1995@gmail.com"> <img src="https://github.com/thivistan/tjames/blob/main/images/gmail.png" width="22px"/> </a><a href="https://wa.me/919408377842" target="blank"><img align="center" src="https://github.com/thivistan/tjames/blob/main/images/5ae21cc526c97415d3213554.png" width="40x" /></a>
+- <details> <summary> 📫 How to reach me :information_desk_person: </summary><a href="mailto:thivstan5@gmail.com"> <img src="https://github.com/thivistan/tjames/blob/main/images/gmail.png" width="22px"/> </a><a href="https://wa.me/919408377842" target="blank"><img align="center" src="https://github.com/thivistan/tjames/blob/main/images/5ae21cc526c97415d3213554.png" width="40x" /></a>
 </details>
 
-- <details> <summary>:zap: Fun fact</summary> 1. Google uses about 1,000 computers to answer every single search query.<br>2. By 2025, the Data Science analytics sector in India is estimated to grow eightfold, reaching $16 billion.<br>3. Data Scientists and Data Analysts are NOT the Same<br>4. You do Not Need to be a Tech Savvy or Hold a PhD to Learn Data Science<br>5. Data Science is Not Just Excel Sheets<br>6. Data Science Competitions and Real Life Projects are Different<br>7. Data Science Field has Different Roles, Not just Data Scientists<br>8. Data Science Needs Great Communication Skills<br>9. Data Science is Not for Everyone<br>10. Less than 0.5% of all data we create is ever analysed and used.
+<details>
+<summary>:zap: Full Stack Development Fun Facts</summary>
+
+1. Full-stack developers are often referred to as "unicorns" in the tech industry due to their versatile skillset.<br>
+2. By 2025, the demand for full-stack developers is estimated to grow by 25% worldwide.<br>
+3. Front-end and back-end development are not the same, but full-stack developers excel at both.<br>
+4. You don't need to be a computer science graduate or a coding prodigy to become a full-stack developer.<br>
+5. Full-stack development is not just about coding; it involves understanding user experience, design principles, and project management.<br>
+6. Building personal projects and contributing to open-source repositories are crucial for gaining practical experience as a full-stack developer.<br>
+7. Full-stack development encompasses various roles, including front-end developers, back-end developers, DevOps engineers, and cloud architects.<br>
+8. Effective communication and collaboration skills are essential for full-stack developers to work seamlessly with cross-functional teams.<br>
+9. Full-stack development is not for everyone; it requires a passion for learning, problem-solving, and adapting to new technologies.<br>
+10. Only a small percentage of applications leverage the full potential of modern web technologies and frameworks.
+
 </details>
 
 
