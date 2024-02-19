@@ -73,8 +73,8 @@
 
 <img height="25" src="https://github.com/thivistan/tjames/blob/main/images/Languages%20and%20%20tools-%20%F0%9F%93%9A-green.svg" />
 <img align="right" alt="GIF"  width="100px" src="https://github.com/thivistan/tjames/blob/main/images/giphy%20(1).gif" />
-<p align="left"><img src="https://github.com/thivistan/tjames/blob/main/images/mysql-original-wordmark.svg" alt="mysql" width="45" height="30"/>  <img src="https://github.com/thivistan/tjames/blob/main/images/python-original.svg" alt="python" width="30" height="45"/><img src="https://github.com/thivistan/tjames/blob/main/images/tableau-software.svg" width="45" height="30"/>  
- </p>
+<!-- <p align="left"><img src="https://github.com/thivistan/tjames/blob/main/images/mysql-original-wordmark.svg" alt="mysql" width="45" height="30"/>  <img src="https://github.com/thivistan/tjames/blob/main/images/python-original.svg" alt="python" width="30" height="45"/><img src="https://github.com/thivistan/tjames/blob/main/images/tableau-software.svg" width="45" height="30"/>  
+ </p> -->
  
 
 <br>
